@@ -4,7 +4,7 @@
 - feign http client
 - eureka service registry server (naming server)
 - ribbon client side load balancer
-- zuul api gateway
+- zuul api gateway (Facade)
 - sleuth auto-configuration for distributed tracing Ids 
 - spring RabbitMQ for certralized logs
 - zipkin distributed tracing server
